@@ -1,4 +1,6 @@
 # Introducao-a-responsividade
+
+<a href="https://bruna15limaa.github.io/Introducao-a-responsividade/">resultado do projeto </a> 
 ### 🚀 Descrição
 
 Este repositório documenta meu aprendizado e progresso no desenvolvimento de websites responsivos. A responsividade web é uma habilidade crucial para garantir que os sites ofereçam uma experiência consistente e eficaz em diversos dispositivos, desde desktops até smartphones.
