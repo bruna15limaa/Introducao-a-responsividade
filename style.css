@@ -22,6 +22,7 @@ body {
 main {
     max-width: 33.0rem;
     margin: 0 auto;
+    gap: 7.2rem;
 }
 
 h1 {
@@ -83,11 +84,23 @@ ul li span {
     letter-spacing: -2px;
 }
 
-@media (min-width 700px) {
+@media (min-width: 700px) {
     main {
         max-width: 1020px;
         display: flex;
-        gap 10rem;
+        gap 16rem;
     }
-    
+    main > div {
+        max-width: 484px;
+    }
+
+    ul li {
+        gap: 5.3rem;
+        max-width: 450px;
+        align-items: center;
+    }
+
+    ul li + li {
+        margin-top: 3.2rem;
+    }
 }
